@@ -160,7 +160,7 @@ education:
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       # link: '#'
       date: 2014 - 2017
-      major: Thesis: A Web Application for a Football Club Management
+      major: "Thesis: A Web Application for a Football Club Management"
       degree: Bachelor
 
 skill:
