@@ -88,32 +88,60 @@ profile:
 experience:
   show: true
   order: 2
-  title: Experiences
+  title: Work experience
   description: |
-    The experiences section in a resume is a section where you list your previous work experiences and accomplishments. It typically includes information about your previous job titles, companies you worked for, the dates of your employment, and your key responsibilities and achievements in each role. This section is important because it gives potential employers a sense of your work history and the skills and expertise you have developed over time. It can also help demonstrate your ability to contribute value to a new organization based on your past achievements.
-
+    
   items:
-    - company: Second Company
-      link: '#'
-      tags: Full-time
-      date: 2018.03 - 2019.03
-      role: Backend Developer
-      location: Beijing
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
-
-    - company: First Company
+    
+    - company: EPTI Factory
       link:
-      tags: Part-time, remote
-      date: 2017.03 - 2018.03
-      role: Backend Developer
-      location: Beijing
+      tags: Full-time, remote
+      date: Nov 2020 - May 2023
+      role: Intermediate .NET Developer
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+        + .NET/C#
+        + Hasura (GraphQL)
+        + PostgreSQL
+        + Docker
+        + MongoDb
+        + some React TypeScript
+    
+    - company: Mono
+      link:
+      tags: Full-time
+      date: Oct 2019 - Sep 2020
+      role: Full Stack Developer
+      location: Osijek
+      description: |
+        + .NET/C#
+        + PostgreSQL
+        + React
+        + MobX
+    
+    - company: Ekobit
+      link:
+      tags: Part-time
+      date: Feb 2019 - Sep 2019
+      role: Full Stack Developer Intern
+      location: Zagreb
+      description: |
+        Worked on multiple projects:
+        + .NET/C#
+        + MSSQL
+        + Angular
+  
+    - company: SysKit
+      # link: '#'
+      tags: Part-time
+      date: Feb 2018 - Dec 2018
+      role: Full Stack Developer Intern
+      location: Zagreb
+      description: |
+        Worked on developing Office365 and SharePoint security tool.
+        + .NET/C#
+        + MSSQL
+        + React (TypeScript)
+        + Scrum
 
 project:
   show: true
