@@ -1,5 +1,5 @@
 basic:
-  name: Foo Bar                      # name
+  name: Tomislav Maslač                      # name
   title: Software Developer           # job title
   avatar:
     show: false                       # show or hide avatar
