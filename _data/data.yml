@@ -82,7 +82,8 @@ profile:
   show: false
   order: 1
   title: Profile
-  description: 
+  description: |
+    Test
 
 experience:
   show: true
