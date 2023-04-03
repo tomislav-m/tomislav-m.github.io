@@ -28,7 +28,7 @@ contact:
   threema:                 # userid            | https://threema.id/userid
 
   # programmer
-  github: https://github.com/tomislav-m                  # username          | https://github.com/username
+  github: tomislav-m                  # username          | https://github.com/username
   gitlab:                  # username          | https://gitlab.com/username
   bitbucket:               # username          | https://bitbucket.com/username
   stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
@@ -172,7 +172,7 @@ skill:
   groups:
     - name: Advanced
       item:
-        - .NET/C#
+        - .NET (C#)
         - PostgreSQL
     - name: Intermediate
       item:
