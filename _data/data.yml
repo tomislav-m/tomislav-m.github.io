@@ -59,7 +59,7 @@ contact:
   artstation:              # username          | https://www.artstation.com/username
 
   # other cv
-  linkedin:                # username          | https://linkedin.com/in/username
+  linkedin: tomislav-maslac #                  | https://linkedin.com/in/username
   indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
   xing:                    # username          | https://www.xing.com/profile/username
   fiverr:                  # username          | https://www.fiverr.com/username
@@ -101,10 +101,13 @@ experience:
       location: Osijek
       description: |
         + .NET/C#
+        + Clean architecture
+        + Entity Framework
         + Hasura (GraphQL)
         + PostgreSQL
         + Docker
         + MongoDb
+        + Redis
         + some React TypeScript
     
     - company: Mono
@@ -142,7 +145,6 @@ experience:
         + .NET/C#
         + MSSQL
         + React (TypeScript)
-        + Scrum
 
 education:
   show: true
@@ -156,12 +158,21 @@ education:
       date: 2017 - 2020
       major: "Thesis: Microservices-based music social network"
       degree: Master
+      description: |
+        + Thesis: Web application based on microservice architecture. Built on .NET with PostgreSQL databases (database per service), events are distributed via RabbitMQ.
+        + Social Networks Project: MovieSNapp (Movie social network and recommender)
+        + Other relevant courses: Object-Oriented Design, Distributed Systems, Service-Oriented Computing, Analysis of Massive Data Sets, Social Networks, Digital Education, Distributed Big Data Processing
 
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       link: 'https://www.fer.unizg.hr/'
       date: 2014 - 2017
       major: "Thesis: A Web Application for a Football Club Management"
       degree: Bachelor
+      description: |
+        + Thesis: ASP.NET Web Application with MSSQL Database
+        + Software design project: Elektrijada Web Application
+        + Programming Paradigms and Languages Project: InMyAppinion (Universitites rating app)
+        + Other relevant courses: Object-oriented Programming, Software Design, Development of Software Applications, Databases, Open Computing
 
 skill:
   show: true
@@ -176,17 +187,26 @@ skill:
         - PostgreSQL
     - name: Intermediate
       item:
-        - React (TypeScript/JavaScript)
+        - Entity Framework
+        - React (TypeScript)
         - Hasura
         - MSSQL
         - Docker
+        - MongoDB
+        - Redis
     - name: Basic
       item:
         - GraphQL
-        - MongoDb
         - Java
         - MobX
         - Angular
+        - RabbitMQ
+    - name: Others
+        - Clean architecture
+        - Git
+        - Jira
+        - Scrum
+        - CI/CD
 
 language:
   show: true
