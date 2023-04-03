@@ -154,7 +154,7 @@ education:
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       # link: '#'
       date: 2017 - 2020
-      major: Thesis: Microservices-based music social network
+      major: "Thesis: Microservices-based music social network"
       degree: Master
 
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
