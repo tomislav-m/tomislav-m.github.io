@@ -100,6 +100,7 @@ experience:
       role: Intermediate .NET Developer
       location: Osijek
       description: |
+        Worked on travel planner application:
         + .NET/C#
         + Clean architecture
         + Entity Framework
@@ -202,6 +203,7 @@ skill:
         - Angular
         - RabbitMQ
     - name: Others
+      item:
         - Clean architecture
         - Git
         - Jira
