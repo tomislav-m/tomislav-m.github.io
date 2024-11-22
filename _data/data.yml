@@ -1,82 +1,82 @@
 basic:
-  name: Tomislav Maslač                      # name
-  title: Software Developer           # job title
+  name: Tomislav Maslač # name
+  title: Software Developer # job title
   avatar:
-    show: false                       # show or hide avatar
+    show: false # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: Osijek, Croatia # location
-  email: tomislav.maslac95@gmail.com    # email address
+  location: Zagreb, Croatia # location
+  email: tomislav.maslac95@gmail.com # email address
   phone: +385 91 591 9599 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   # website: example.com     # site URL without schema, like example.com, will automatically prepand "https://"
 
-  gender:                  # gender or pronoun
-  birthday:                # birthday
-  nationality:             # nationality
-  visa:                    # passport visa
-  drivinglicense:          # driving licence
+  gender: # gender or pronoun
+  birthday: # birthday
+  nationality: # nationality
+  visa: # passport visa
+  drivinglicense: # driving licence
 
   # contact
-  wechat:                  # username
-  whatsapp:                # 8611122223333     | https://wa.me/8611122223333
-  telegram:                # username          | https://t.me/username
-  messenger:               # username          | https://m.me/username
-  line:                    # lineid            | https://line.me/R/ti/p/@lineid
-  viber:                   # username          | https://vb.me/username
-  threema:                 # userid            | https://threema.id/userid
+  wechat: # username
+  whatsapp: # 8611122223333     | https://wa.me/8611122223333
+  telegram: # username          | https://t.me/username
+  messenger: # username          | https://m.me/username
+  line: # lineid            | https://line.me/R/ti/p/@lineid
+  viber: # username          | https://vb.me/username
+  threema: # userid            | https://threema.id/userid
 
   # programmer
-  github: tomislav-m                  # username          | https://github.com/username
-  gitlab:                  # username          | https://gitlab.com/username
-  bitbucket:               # username          | https://bitbucket.com/username
-  stackoverflow:           # id or id/username | https://stackoverflow.com/users/id/username
-  leetcode:                # username          | https://leetcode.com/username
-  codeforces:              # username          | https://codeforces.com/profile/username
-  codewars:                # username          | https://www.codewars.com/users/username
-  codepen:                 # username          | https://codepen.io/username
-  tryhackme:               # username          | https://tryhackme.com/p/username
+  github: tomislav-m # username          | https://github.com/username
+  gitlab: # username          | https://gitlab.com/username
+  bitbucket: # username          | https://bitbucket.com/username
+  stackoverflow: # id or id/username | https://stackoverflow.com/users/id/username
+  leetcode: # username          | https://leetcode.com/username
+  codeforces: # username          | https://codeforces.com/profile/username
+  codewars: # username          | https://www.codewars.com/users/username
+  codepen: # username          | https://codepen.io/username
+  tryhackme: # username          | https://tryhackme.com/p/username
 
   # academic
-  googlescholar:           # username          | https://scholar.google.com/citations?user=username
-  researchgate:            # username          | https://www.researchgate.net/profile/username
-  kaggle:                  # username          | https://www.kaggle.com/username
-  orcid:                   # id                | https://orcid.org/id
-  figshare:                # name/id           | https://figshare.com/authors/name/id
+  googlescholar: # username          | https://scholar.google.com/citations?user=username
+  researchgate: # username          | https://www.researchgate.net/profile/username
+  kaggle: # username          | https://www.kaggle.com/username
+  orcid: # id                | https://orcid.org/id
+  figshare: # name/id           | https://figshare.com/authors/name/id
 
   # writer
-  devto:                   # username          | https://dev.to/username
-  medium:                  # username          | https://medium.com/@username
-  wordpress:               # username          | https://username.wordpress.com
-  blogger:                 # username          | https://username.blogspot.com
-  wikipedia:               # username          | https://www.wikipedia.org/wiki/User:username
+  devto: # username          | https://dev.to/username
+  medium: # username          | https://medium.com/@username
+  wordpress: # username          | https://username.wordpress.com
+  blogger: # username          | https://username.blogspot.com
+  wikipedia: # username          | https://www.wikipedia.org/wiki/User:username
 
   # designer
-  figma:                   # username          | https://www.figma.com/@username
-  behance:                 # username          | https://www.behance.net/username
-  dribble:                 # username          | https://dribbble.com/username
-  artstation:              # username          | https://www.artstation.com/username
+  figma: # username          | https://www.figma.com/@username
+  behance: # username          | https://www.behance.net/username
+  dribble: # username          | https://dribbble.com/username
+  artstation: # username          | https://www.artstation.com/username
 
   # other cv
   linkedin: tomislav-maslac #                  | https://linkedin.com/in/username
-  indeed:                  # resumeid          | https://my.indeed.com/p/resumeid
-  xing:                    # username          | https://www.xing.com/profile/username
-  fiverr:                  # username          | https://www.fiverr.com/username
-  freelancer:              # username          | https://www.freelancer.com/u/username
+  indeed: # resumeid          | https://my.indeed.com/p/resumeid
+  xing: # username          | https://www.xing.com/profile/username
+  fiverr: # username          | https://www.fiverr.com/username
+  freelancer: # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:                 # username          | https://twitter.com/username
-  mastodon:                # username@server
-  instagram:               # username          | https://instagram.com/username
-  unsplash:                # username          | https://unsplash.com/@username
-  _500px:                  # username          | https://500px.com/p/username
-  youtube:                 # username          | https://www.youtube.com/@username
-  tiktok:                  # username          | https://www.tiktok.com/@username
-  quora:                   # username          | https://www.quora.com/profile/username
-  zhihu:                   # username          | https://www.zhihu.com/people/username
-  goodreads:               # username          | https://www.goodreads.com/user/show/username
-  strava:                  # useid             | https://www.strava.com/athletes/userid
+  twitter: # username          | https://twitter.com/username
+  mastodon: # username@server
+  instagram: # username          | https://instagram.com/username
+  unsplash: # username          | https://unsplash.com/@username
+  _500px: # username          | https://500px.com/p/username
+  youtube: # username          | https://www.youtube.com/@username
+  tiktok: # username          | https://www.tiktok.com/@username
+  quora: # username          | https://www.quora.com/profile/username
+  zhihu: # username          | https://www.zhihu.com/people/username
+  goodreads: # username          | https://www.goodreads.com/user/show/username
+  strava: # useid             | https://www.strava.com/athletes/userid
 
 profile:
   show: false
@@ -90,9 +90,24 @@ experience:
   order: 2
   title: Work experience
   description: |
-    
+
   items:
-    
+    - company: EPTI Factory
+      link:
+      tags: Full-time, hybrid
+      date: Nov 2023 - ?
+      role: Full Stack Developer
+      location: Zagreb
+      description: |
+        + .NET/C#
+        + Clean architecture
+        + Entity Framework
+        + Microsoft SQL Server
+        + React TypeScript
+        + Docker
+        + Azure DevOps
+        + Firebase Cloud Messaging
+
     - company: EPTI Factory
       link:
       tags: Full-time, remote
@@ -110,7 +125,7 @@ experience:
         + MongoDb
         + Redis
         + some React TypeScript
-    
+
     - company: Mono
       link:
       tags: Full-time
@@ -122,7 +137,7 @@ experience:
         + PostgreSQL
         + React
         + MobX
-    
+
     - company: Ekobit
       link:
       tags: Part-time
@@ -134,7 +149,7 @@ experience:
         + .NET/C#
         + MSSQL
         + Angular
-  
+
     - company: SysKit
       # link: '#'
       tags: Part-time
@@ -155,7 +170,7 @@ education:
 
   items:
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
-      link: 'https://www.fer.unizg.hr/'
+      link: "https://www.fer.unizg.hr/"
       date: 2017 - 2020
       major: "Thesis: Microservices-based music social network"
       degree: Master
@@ -165,7 +180,7 @@ education:
         + Other relevant courses: Object-Oriented Design, Distributed Systems, Service-Oriented Computing, Analysis of Massive Data Sets, Social Networks, Digital Education, Distributed Big Data Processing
 
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
-      link: 'https://www.fer.unizg.hr/'
+      link: "https://www.fer.unizg.hr/"
       date: 2014 - 2017
       major: "Thesis: A Web Application for a Football Club Management"
       degree: Bachelor
@@ -202,6 +217,8 @@ skill:
         - MobX
         - Angular
         - RabbitMQ
+        - Azure Devops
+        - Firebase Cloud Messaging
     - name: Others
       item:
         - Clean architecture
@@ -215,12 +232,11 @@ language:
   order: 5
   title: Languages
   description: |
-  
+
   items:
     - idiom: Croatian
       level: Native
     - idiom: English
       level: Professional
-
 
 close: <strong>Sorry, my resume has been hidden.</strong>
