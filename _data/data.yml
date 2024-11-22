@@ -227,9 +227,19 @@ skill:
         - Scrum
         - CI/CD
 
-language:
+certificate:
   show: true
   order: 5
+  title: Certificate
+  items:
+    - name: Azure Data Fundamentals
+      link: https://learn.microsoft.com/api/credentials/share/en-us/TomislavMasla-6693/B60830C61AC7B758?sharingId=67B6ACF22E6770B
+      issuer: Microsoft
+      date: October 31, 2024
+
+language:
+  show: true
+  order: 6
   title: Languages
   description: |
 
