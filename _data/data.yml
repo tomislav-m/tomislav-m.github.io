@@ -93,19 +93,21 @@ experience:
 
   items:
     - company: Littlecode
-      link: https://www.littlecode.com
+      link: #
       tags: Full-time, hybrid
       date: May 2023 - ?
       role: Full Stack Developer
       location: Zagreb
       description: |
         + .NET/C#
-        + Clean architecture
         + Entity Framework
         + Microsoft SQL Server
-        + React TypeScript
+        + Clean architecture
+        + React
+        + Vue.js
+        + Microsoft Azure (IaC, Function Apps, Storages)
         + Docker
-        + Azure DevOps
+        + xUnit
         + Firebase Cloud Messaging
 
     - company: EPTI Factory
@@ -115,7 +117,7 @@ experience:
       role: Intermediate .NET Developer
       location: Osijek
       description: |
-        Worked on travel planner application:
+        Travel planner application:
         + .NET/C#
         + Clean architecture
         + Entity Framework
@@ -124,7 +126,8 @@ experience:
         + Docker
         + MongoDb
         + Redis
-        + some React TypeScript
+        + React
+        + xUnit
 
     - company: Mono
       link:
@@ -136,7 +139,6 @@ experience:
         + .NET/C#
         + PostgreSQL
         + React
-        + MobX
 
     - company: Ekobit
       link:
@@ -145,9 +147,8 @@ experience:
       role: Full Stack Developer Intern
       location: Zagreb
       description: |
-        Worked on multiple projects:
         + .NET/C#
-        + MSSQL
+        + Microsoft SQL Server
         + Angular
 
     - company: SysKit
@@ -157,10 +158,10 @@ experience:
       role: Full Stack Developer Intern
       location: Zagreb
       description: |
-        Worked on developing Office365 and SharePoint security tool.
+        Microsoft 365 and SharePoint security tool
         + .NET/C#
-        + MSSQL
-        + React (TypeScript)
+        + Microsoft SQL Server
+        + React
 
 education:
   show: true
@@ -172,23 +173,21 @@ education:
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       link: "https://www.fer.unizg.hr/"
       date: 2017 - 2020
-      major: "Thesis: Microservices-based music social network"
+      major: "Software Engineering and Information Systems"
       degree: Master
       description: |
-        + Thesis: Web application based on microservice architecture. Built on .NET with PostgreSQL databases (database per service), events are distributed via RabbitMQ.
+        + Thesis: Microservices-based music social network - Web application utilizing a microservices architecture, built on .NET with PostgreSQL databases (one database per service). Events are distributed through RabbitMQ.
         + Social Networks Project: MovieSNapp (Movie social network and recommender)
-        + Other relevant courses: Object-Oriented Design, Distributed Systems, Service-Oriented Computing, Analysis of Massive Data Sets, Social Networks, Digital Education, Distributed Big Data Processing
 
     - institution: University of Zagreb, Faculty of Electrical Engineering and Computing, Croatia
       link: "https://www.fer.unizg.hr/"
       date: 2014 - 2017
-      major: "Thesis: A Web Application for a Football Club Management"
+      major: "Software Engineering and Information Systems"
       degree: Bachelor
       description: |
-        + Thesis: ASP.NET Web Application with MSSQL Database
+        + Thesis: A Web Application for a Football Club Management - ASP.NET Web Application with Microsoft SQL Server Database
         + Software design project: Elektrijada Web Application
-        + Programming Paradigms and Languages Project: InMyAppinion (Universitites rating app)
-        + Other relevant courses: Object-oriented Programming, Software Design, Development of Software Applications, Databases, Open Computing
+        + Programming Paradigms and Languages Project: InMyAppinion (Universities rating app)
 
 skill:
   show: true
@@ -200,30 +199,29 @@ skill:
     - name: Advanced
       item:
         - .NET (C#)
+        - Microsoft SQL Server
         - PostgreSQL
+        - Entity Framework
     - name: Intermediate
       item:
-        - Entity Framework
-        - React (TypeScript)
-        - Hasura
-        - MSSQL
+        - React
+        - xUnit
+        - Microsoft Azure
         - Docker
-        - MongoDB
-        - Redis
+        - Vue.js
+        - Hasura
     - name: Basic
       item:
+        - MongoDB
+        - Redis
         - GraphQL
-        - Java
-        - MobX
         - Angular
         - RabbitMQ
-        - Azure Devops
         - Firebase Cloud Messaging
     - name: Others
       item:
         - Clean architecture
         - Git
-        - Jira
         - Scrum
         - CI/CD
 
