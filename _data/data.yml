@@ -95,7 +95,7 @@ experience:
     - company: Look@
       link: #
       tags: Fixed-term contract, remote
-      date: Jan 2026 - April 2026
+      date: Jan 2026 - Apr 2026
       role: Full Stack Developer
       location: Zagreb
       description: |
@@ -123,6 +123,7 @@ experience:
         + Microsoft Azure (IaC, Function Apps, Storages)
         + Docker
         + xUnit
+        + Firebase Cloud Messaging
 
     - company: EPTI Factory
       link:
