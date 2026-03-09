@@ -92,10 +92,25 @@ experience:
   description: |
 
   items:
+  - company: Look@
+      link: #
+      tags: Fixed-term contract, remote
+      date: Jan 2026 - April 2026
+      role: Full Stack Developer
+      location: Zagreb
+      description: |
+        Smart photo sculpture - cloud and mobile app
+        + .NET/C#
+        + Entity Framework
+        + Microsoft SQL Server
+        + Modular monolithic architecture
+        + React
+        + Redux
+
     - company: Littlecode
       link: #
       tags: Full-time, hybrid
-      date: May 2023 - ?
+      date: May 2023 - Dec 2025
       role: Full Stack Developer
       location: Zagreb
       description: |
@@ -216,6 +231,7 @@ skill:
         - Redis
         - GraphQL
         - Angular
+        - Redux
         - RabbitMQ
         - Firebase Cloud Messaging
     - name: Others
